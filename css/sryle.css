@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+img {
+  object-fit: cover;
+}
+
+.container {
+  width: 100%;
+  min-width: 1200px;
+  padding: 0 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background: #292933;
+  padding: 20px 120px;
+}
+.header .hero__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header .hero__item {
+  margin-left: 20px;
+}
+.header .hero__item__limnk {
+  color: aliceblue;
+}
+.header .hero__item__link {
+  background-color: black;
+  color: aliceblue;
+  padding: 7px 20px;
+}
+
+.hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero-section .card1 {
+  background: #292933;
+  padding: 44.8px 100px;
+}
+.hero-section .card1__title {
+  font-size: 70px;
+}
+.hero-section .card2__img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=sryle.css.map */

@@ -1,0 +1,29 @@
+.header{
+background: #292933;
+padding: 20px 120px;
+
+.hero{
+
+    &__list{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__item{
+
+        margin-left: 20px;
+
+        &__limnk{
+            color: aliceblue;
+        }
+
+        &__link{
+              background-color: black;
+              color: aliceblue;
+              padding: 7px 20px;
+        }
+    }
+}
+
+}

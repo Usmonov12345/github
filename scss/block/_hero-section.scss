@@ -1,0 +1,20 @@
+.hero-section{
+display: flex;
+    align-items: center;
+    justify-content: space-between;
+.card1{
+    background: #292933;
+     padding: 44.8px 100px;
+
+     &__title{
+        font-size: 70px;
+     }
+}
+
+
+.card2{
+    &__img{
+        width: 100%;
+    }
+}
+}
